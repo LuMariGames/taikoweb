@@ -11,10 +11,10 @@
   "custom_js": "",
   "email": null,
   "google_credentials": {
-    "api_key": "AIzaSyDSrbG9DwwsuPWZXLxWURCo6WUuA_dWZgQ",
+    "api_key": "",
     "gdrive_enabled": false,
     "min_level": null,
-    "oauth_client_id": "456538279993-1vcm85e8ha3pgr0ln94gplq6gj5fjvt5.apps.googleusercontent.com",
+    "oauth_client_id": "",
     "project_number": ""
   },
   "plugins": [
