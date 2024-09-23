@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Mario Taiko(v1.3)</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
+    <meta name="viewport" content="width=device-width, user-scalable=yes" />
+    <meta name="robots" content="noindex" />
+    <meta name="robots" content="notranslate" />
+    <meta name="robots" content="noimageindex" />
+    <meta name="color-scheme" content="only light" />
+
+    <link rel="stylesheet" href="src/css/loader.css?f7617c1" />
+
+    <script>
+      if (location.protocol === "http:") {
+        var url = new URL(location.href);
+        url.protocol = "https:";
+        location.href = url.toString();
+      }
+    </script>
+    <script src="src/js/assets.js?f7617c1"></script>
+    <script src="src/js/strings.js?f7617c1"></script>
+    <script src="src/js/pageevents.js?f7617c1"></script>
+    <script src="src/js/loader.js?f7617c1"></script>
+    <script src="loader-patch.js?f7617c1"></script>
+  </head>
+  <body>
+    <div id="assets"></div>
+    <div id="screen" class="pattern-bg"></div>
+    <div data-nosnippet id="version">
+      <a
+        href="https://github.com/bui/taiko-web/commit/f7617c1b7492e30011a1f08e8f3a023839aa41bd"
+        target="_blank"
+        rel="noopener"
+        id="version-link"
+        class="stroke-sub"
+        alt="Mario Taiko(v1.3)"
+        >Mario Taiko(v1.3)</a
+      >
+    </div>
+    <script src="src/js/browsersupport.js?f7617c1"></script>
+    <script src="src/js/main.js?f7617c1"></script>
+    <noscript>
+      <div data-nosnippet id="unsupportedBrowser">
+        <div id="unsupportedWarn">!</div>
+        <span
+          >Mario TaikoはJavaScriptを使います。<br />Taiko Web
+          requires JavaScript to be enabled in the browser.</span
+        >
+      </div>
+    </noscript>
+  </body>
+</html>
