@@ -21,12 +21,12 @@
     {
       "hide": false,
       "start": true,
-      "url": "/default-patches.taikoweb.js"
+      "url": "default-patches.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/change-music-speed.taikoweb.js"
+      "url": "plugins/gameplay/change-music-speed.taikoweb.js"
     },
     {
       "hide": false,
