@@ -1,0 +1,1776 @@
+[
+  {
+    "id": 1,
+    "order": 1,
+    "title": "Sadistic.Music∞Factory",
+    "subtitle": "「ProjectDIVA-f」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 2,
+    "order": 2,
+    "title": "無意識レクイエム",
+    "subtitle": "cosmobsp rmx",
+    "courses": {
+      "easy": {
+        "stars": 6,
+        "branch": false
+      },
+      "normal": {
+        "stars": 8,
+        "branch": false
+      },
+      "hard": {
+        "stars": 9,
+        "branch": false
+      },
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": {
+        "stars": 10,
+        "branch": false
+      }
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 3,
+    "order": 3,
+    "title": "ポジティブ☆ダンスタイム",
+    "subtitle": "「プロセカ」より",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 7,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 4,
+    "order": 4,
+    "title": "六兆年と一夜物語",
+    "subtitle": "kemu",
+    "courses": {
+      "easy": null,
+      "hard": {
+        "stars": 7,
+        "branch": false
+      },
+      "normal": {
+        "stars": 6,
+        "branch": false
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 5,
+    "order": 5,
+    "title": "プラネタリウム・レヴュー",
+    "subtitle": "「ワールドダイスター」より",
+    "courses": {
+      "easy": {
+        "stars": 4,
+        "branch": false
+      },
+      "hard": {
+        "stars": 6,
+        "branch": false
+      },
+      "normal": {
+        "stars": 6,
+        "branch": false
+      },
+      "oni": {
+        "stars": 7,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 6,
+    "order": 6,
+    "title": "ユーモアイロニー",
+    "subtitle": "",
+    "courses": {
+      "easy": {
+        "stars": 4,
+        "branch": false
+      },
+      "hard": {
+        "stars": 8,
+        "branch": false
+      },
+      "normal": {
+        "stars": 6,
+        "branch": false
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 7,
+    "order": 7,
+    "title": "六兆年と一夜物語 ─",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 8,
+    "order": 8,
+    "title": "Gamble Rumble",
+    "subtitle": "「頭文字D 3rd Stage」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 10,
+    "order": 10,
+    "title": "マツヨイナイトバグ",
+    "subtitle": "「ダンカグ」より",
+    "courses": {
+      "easy": null,
+      "hard": {
+        "stars": 7,
+        "branch": false
+      },
+      "normal": {
+        "stars": 7,
+        "branch": false
+      },
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 11,
+    "order": 11,
+    "title": "Bye Bye Baby",
+    "subtitle": "SUPER EUROBEAT Vol.50",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 12,
+    "order": 12,
+    "title": "美少女無罪♡パイレーツ",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 8,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 13,
+    "order": 13,
+    "title": "マンマルダンス",
+    "subtitle": "かいりきベア feat.莉犬",
+    "courses": {
+      "easy": {
+        "stars": 5,
+        "branch": false
+      },
+      "hard": {
+        "stars": 7,
+        "branch": false
+      },
+      "normal": {
+        "stars": 7,
+        "branch": false
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": {
+        "stars": 9,
+        "branch": false
+      }
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 14,
+    "order": 14,
+    "title": "バラライカ",
+    "subtitle": "「きらりん☆レボリューション」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 15,
+    "order": 15,
+    "title": "ミライどんなだろう",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 16,
+    "order": 16,
+    "title": "ギンギラ銀河",
+    "subtitle": "",
+    "courses": {
+      "easy": {
+        "stars": 5,
+        "branch": false
+      },
+      "normal": {
+        "stars": 6,
+        "branch": false
+      },
+      "hard": {
+        "stars": 7,
+        "branch": false
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 17,
+    "order": 17,
+    "title": "シークライファー(FULLver.)",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 18,
+    "order": 18,
+    "title": "彗星紀行",
+    "subtitle": "supi",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 7,
+    "category": "Namco Originals",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 19,
+    "order": 19,
+    "title": "M.I.L.F",
+    "subtitle": "「Friday Night Funkin」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 6
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 20,
+    "order": 20,
+    "title": "ジダンダーナイト",
+    "subtitle": "かいりきベア feat.いれいす",
+    "courses": {
+      "easy": {
+        "stars": 5,
+        "branch": false
+      },
+      "normal": {
+        "stars": 6,
+        "branch": false
+      },
+      "hard": {
+        "stars": 8,
+        "branch": false
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": {
+        "stars": 9,
+        "branch": false
+      }
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 21,
+    "order": 21,
+    "title": "アグノスティック",
+    "subtitle": "豆カカオ",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 22,
+    "order": 22,
+    "title": "悪役にキスシーンを",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 8,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 23,
+    "order": 23,
+    "title": "インビジブル",
+    "subtitle": "kemu feat.鏡音リン&GUMI",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 24,
+    "order": 24,
+    "title": "まにまに",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 7,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 25,
+    "order": 25,
+    "title": "Armageddon",
+    "subtitle": "leaf",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 26,
+    "order": 26,
+    "title": "アンハッピーリフレイン",
+    "subtitle": "wowaka feat.初音ミク",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": {
+        "stars": 8
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 27,
+    "order": 27,
+    "title": "おこちゃま戦争 (FULLver.)",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 28,
+    "order": 28,
+    "title": "スピール",
+    "subtitle": "かいりきベア feat.ななもり。&ジェル",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 8
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 29,
+    "order": 29,
+    "title": "百鬼祭",
+    "subtitle": "Kanaria feat.初音ミク",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 6,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 30,
+    "order": 30,
+    "title": "ヒアソビ",
+    "subtitle": "かめりあ feat.初音ミク",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 8,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 31,
+    "order": 31,
+    "title": "嬢王",
+    "subtitle": "八王子P feat.初音ミク",
+    "courses": {
+      "easy": {
+        "stars": 6
+      },
+      "hard": {
+        "stars": 9
+      },
+      "normal": {
+        "stars": 7
+      },
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 32,
+    "order": 32,
+    "title": "RUNNING IN THE 90's",
+    "subtitle": "「頭文字D」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 33,
+    "order": 33,
+    "title": "ヨイ！ヨイ！ヨイ！！！！",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 6
+      },
+      "ura": {
+        "stars": 7
+      }
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 34,
+    "order": 34,
+    "title": "DON'T STAND SO CLOSE",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 35,
+    "order": 35,
+    "title": "少女レイ",
+    "subtitle": "「プロセカ」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 7,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 36,
+    "order": 36,
+    "title": "BEAT-NEW-WORLD",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": {
+        "stars": 8
+      },
+      "normal": {
+        "stars": 7
+      },
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 37,
+    "order": 37,
+    "title": "Help me, ERINNNNNN!!",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 38,
+    "order": 38,
+    "title": "今年も「雪降り、メリクリ」目指して頑張ります！！",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 39,
+    "order": 39,
+    "title": "Random",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 40,
+    "order": 40,
+    "title": "超最終鬼畜妹フランドール・S",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 41,
+    "order": 41,
+    "title": "ハナタバ",
+    "subtitle": "MIMI feat.可不",
+    "courses": {
+      "easy": {
+        "stars": 4
+      },
+      "hard": {
+        "stars": 6
+      },
+      "normal": {
+        "stars": 5
+      },
+      "oni": {
+        "stars": 7,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 42,
+    "order": 42,
+    "title": "Retribution ~ Cycle of Rede",
+    "subtitle": "Ardolf vs Daily天利",
+    "courses": {
+      "easy": {
+        "stars": 6
+      },
+      "hard": {
+        "stars": 8
+      },
+      "normal": {
+        "stars": 7
+      },
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": {
+        "stars": 10
+      }
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  }
+]

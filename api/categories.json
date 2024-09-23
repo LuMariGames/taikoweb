@@ -1,0 +1,186 @@
+[
+  {
+    "aliases": null,
+    "id": 1,
+    "song_skin": {
+      "background": "#219fbb",
+      "bg_img": "bg_genre_0.png",
+      "border": ["#7ec3d3", "#0b6773"],
+      "info_fill": "#004d68",
+      "outline": "#005058",
+      "sort": 1
+    },
+    "title": "Pop",
+    "title_lang": {
+      "cn": "流行音乐",
+      "en": "Pop",
+      "ja": "J-POP",
+      "ko": "POP",
+      "tw": "流行音樂"
+    }
+  },
+  {
+    "aliases": null,
+    "id": 2,
+    "song_skin": {
+      "background": "#ff9700",
+      "bg_img": "bg_genre_1.png",
+      "border": ["#ffdb8c", "#e75500"],
+      "info_fill": "#9c4002",
+      "outline": "#9c4100",
+      "sort": 2
+    },
+    "title": "Anime",
+    "title_lang": {
+      "cn": "卡通动画音乐",
+      "en": "Anime",
+      "ja": "アニメ",
+      "ko": "애니메이션",
+      "tw": "卡通動畫音樂"
+    }
+  },
+  {
+    "aliases": ["ボーカロイド曲", "ボーカロイド", "vocaloid music", "vocaloid"],
+    "id": 3,
+    "song_skin": {
+      "background": "#def2ef",
+      "bg_img": "bg_genre_2.png",
+      "border": ["#f7fbff", "#79919f"],
+      "info_fill": "#546184",
+      "outline": "#5a6584",
+      "sort": 3
+    },
+    "title": "VOCALOID™ Music",
+    "title_lang": {
+      "en": "VOCALOID™ Music",
+      "ja": "ボーカロイド™曲"
+    }
+  },
+  {
+    "aliases": [
+      "バラエティー",
+      "どうよう",
+      "童謡・民謡",
+      "children",
+      "children/folk",
+      "children-folk"
+    ],
+    "id": 4,
+    "song_skin": {
+      "background": "#8fd321",
+      "bg_img": "bg_genre_3.png",
+      "border": ["#f7fbff", "#587d0b"],
+      "info_fill": "#3c6800",
+      "outline": "#374c00",
+      "sort": 4
+    },
+    "title": "Variety",
+    "title_lang": {
+      "cn": "综合音乐",
+      "en": "Variety",
+      "ja": "バラエティ",
+      "ko": "버라이어티",
+      "tw": "綜合音樂"
+    }
+  },
+  {
+    "aliases": ["クラッシック", "classic"],
+    "id": 5,
+    "song_skin": {
+      "background": "#d1a016",
+      "bg_img": "bg_genre_4.png",
+      "border": ["#e7cf6b", "#9a6b00"],
+      "info_fill": "#865800",
+      "outline": "#734d00",
+      "sort": 5
+    },
+    "title": "Classical",
+    "title_lang": {
+      "cn": "古典音乐",
+      "en": "Classical",
+      "ja": "クラシック",
+      "ko": "클래식",
+      "tw": "古典音樂"
+    }
+  },
+  {
+    "aliases": null,
+    "id": 6,
+    "song_skin": {
+      "background": "#9c72c0",
+      "bg_img": "bg_genre_5.png",
+      "border": ["#bda2ce", "#63407e"],
+      "info_fill": "#4f2886",
+      "outline": "#4b1c74",
+      "sort": 6
+    },
+    "title": "Video Game Series",
+    "title_lang": {
+      "cn": "游戏音乐",
+      "en": "Video Game Series",
+      "ja": "ゲームミュージック",
+      "ko": "게임",
+      "tw": "遊戲音樂"
+    }
+  },
+  {
+    "aliases": null,
+    "id": 7,
+    "song_skin": {
+      "background": "#ff5716",
+      "bg_img": "bg_genre_6.png",
+      "border": ["#ffa66b", "#b53000"],
+      "info_fill": "#961e00",
+      "outline": "#941c00",
+      "sort": 7
+    },
+    "title": "NAMCO Original",
+    "title_lang": {
+      "cn": "MARIO原来的",
+      "en": "Mario original",
+      "ja": "マリオオリジナル",
+      "ko": "MARIO오리지널",
+      "tw": "MARIO原來的"
+    }
+  },
+  {
+    "aliases": null,
+    "id": 8,
+    "song_skin": {
+      "background": "#00aeef",
+      "bg_img": "bg_genre_7.png",
+      "border": ["#267ba7", "#0072bc"],
+      "info_fill": "##67a7cc",
+      "outline": "#007dc5",
+      "sort": 7
+    },
+    "title": "download",
+    "title_lang": {
+      "cn": "下载乐谱",
+      "en": "Download sheet music",
+      "ja": "ダウンロード譜面",
+      "ko": "다운로드 악보",
+      "tw": "下載樂譜"
+    }
+  },
+  {
+    "aliases": null,
+    "id": 9,
+    "song_skin": {
+      "background": "#fa8072",
+      "bg_img": "bg_genre_7.png",
+      "border": ["#fa8072", "#cd5c5c"],
+      "info_fill": "#fa8072",
+      "outline": "#dc143c",
+      "sort": 7
+    },
+    "title": "limited",
+    "title_lang": {
+      "cn": "有限的时间",
+      "en": "Limited time",
+      "ja": "期間限定",
+      "ko": "기간 한정",
+      "tw": "有限的時間"
+    }
+  }
+]
