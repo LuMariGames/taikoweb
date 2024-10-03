@@ -21,147 +21,147 @@
     {
       "hide": false,
       "start": true,
-      "url": "https://github.com/LuMariGames/taikoweb/tree/main/default-patches.taikoweb.js"
+      "url": "default-patches.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "https://github.com/LuMariGames/taikoweb/tree/main/plugins/gameplay/change-music-speed.taikoweb.js"
+      "url": "plugins/gameplay/change-music-speed.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "https://github.com/LuMariGames/taikoweb/tree/main/plugins/gameplay/change-timing-window.taikoweb.js"
+      "url": "plugins/gameplay/change-timing-window.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "https://github.com/LuMariGames/taikoweb/tree/main/plugins/gameplay/custom-scroll-speed.taikoweb.js"
+      "url": "plugins/gameplay/custom-scroll-speed.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "https://github.com/LuMariGames/taikoweb/tree/main/plugins/gameplay/rainbow-crown.taikoweb.js"
+      "url": "plugins/gameplay/rainbow-crown.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "https://github.com/LuMariGames/taikoweb/tree/main/plugins/gameplay/skip-results-in-multiplayer.taikoweb.js"
+      "url": "plugins/gameplay/skip-results-in-multiplayer.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/spartan-mode.taikoweb.js"
+      "url": "plugins/gameplay/spartan-mode.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/multiplayer-custom-songs.taikoweb.js"
+      "url": "plugins/gameplay/multiplayer-custom-songs.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/song-select/change-song-select-speed.taikoweb.js"
+      "url": "plugins/song-select/change-song-select-speed.taikoweb.js"
     },
     {
       "hide": true,
       "start": true,
-      "url": "/plugins/song-select/download-chart.taikoweb.js"
+      "url": "plugins/song-select/download-chart.taikoweb.js"
     },
     {
       "hide": true,
       "start": true,
-      "url": "/plugins/workarounds/offline-account.taikoweb.js"
+      "url": "plugins/workarounds/offline-account.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/languages/language-es-419.taikoweb.js"
+      "url": "plugins/languages/language-es-419.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/languages/language-fr.taikoweb.js"
+      "url": "plugins/languages/language-fr.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/languages/language-pl.taikoweb.js"
+      "url": "plugins/languages/language-pl.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/accessibility/disable-animations.taikoweb.js"
+      "url": "plugins/accessibility/disable-animations.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/accessibility/backup-and-restore-scores.taikoweb.js"
+      "url": "plugins/accessibility/backup-and-restore-scores.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/accessibility/dpad-axis-input.taikoweb.js"
+      "url": "plugins/accessibility/dpad-axis-input.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/custom-songs/green-notes.taikoweb.js"
+      "url": "plugins/custom-songs/green-notes.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/custom-songs/custom-barlines.taikoweb.js"
+      "url": "plugins/custom-songs/custom-barlines.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/custom-songs/loading-background.taikoweb.js"
+      "url": "plugins/custom-songs/loading-background.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/for-fun/big-ok.taikoweb.js"
+      "url": "plugins/for-fun/big-ok.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/debugging-testing/millisecond-accuracy.taikoweb.js"
+      "url": "plugins/debugging-testing/millisecond-accuracy.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/debugging-testing/show-bpm.taikoweb.js"
+      "url": "plugins/debugging-testing/show-bpm.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/debugging-testing/display-game-cache.taikoweb.js"
+      "url": "plugins/debugging-testing/display-game-cache.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/debugging-testing/debug-button.taikoweb.js"
+      "url": "plugins/debugging-testing/debug-button.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/debugging-testing/convert-lyrics-to-vtt.taikoweb.js"
+      "url": "plugins/debugging-testing/convert-lyrics-to-vtt.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/examples/language-en.taikoweb.js"
+      "url": "plugins/examples/language-en.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/examples/example-plugin.taikoweb.js"
+      "url": "plugins/examples/example-plugin.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/disable-judge-scores.taikoweb.js"
+      "url": "disable-judge-scores.taikoweb.js"
     }
   ],
   "preview_type": "mp3",
