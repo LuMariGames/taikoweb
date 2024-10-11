@@ -21,7 +21,7 @@
     {
       "hide": false,
       "start": true,
-      "url": "../default-patches.taikoweb.js"
+      "url": "default-patches.taikoweb.js"
     },
     {
       "hide": false,
