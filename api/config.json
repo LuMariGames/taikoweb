@@ -21,7 +21,7 @@
     {
       "hide": false,
       "start": true,
-      "url": "default-patches.taikoweb.js"
+      "url": "https://raw.githubusercontent.com/LuMariGames/taikoweb/refs/heads/main/default-patches.taikoweb.js"
     },
     {
       "hide": false,
