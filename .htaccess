@@ -1,0 +1,3 @@
+<IfModule mime_module>
+AddType text/javascript .js .mjs
+</IfModule>
