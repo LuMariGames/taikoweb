@@ -63,7 +63,7 @@ class GameInput {
     this.gamepad = new Gamepad(gameBtn);
     this.gamepadInterval = setInterval(
       this.gamepadKeys.bind(this),
-      1000 / 60 / 2
+      1000 / 60
     );
 
     this.gamepadMenu = new Gamepad({
