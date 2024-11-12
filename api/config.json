@@ -19,5 +19,5 @@
   },
   "plugins": null,
   "preview_type": "mp3",
-  "songs_baseurl": "/songs/"
+  "songs_baseurl": "songs/"
 }
