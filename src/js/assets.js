@@ -98,11 +98,8 @@ var assets = {
 	"audioSfx": [
 		"se_pause.ogg",
 		"se_calibration.ogg",
-		"neiro_1_don.ogg",
-		"neiro_1_ka.ogg",
-		"se_balloon.ogg",		
-    "v_start.ogg",
-    "v_results.ogg",
+		"v_start.ogg",
+		"v_results.ogg",
 		"v_sanka.ogg",
 		"v_songsel.ogg",
 		"v_title.ogg"
@@ -112,13 +109,14 @@ var assets = {
 		"se_don.ogg",
 		"se_ka.ogg",
 		"se_jump.ogg",
-		
+		"neiro_1_don.ogg",
+		"neiro_1_ka.ogg",
+		"se_balloon.ogg",
 		"se_gameclear.ogg",
 		"se_gamefail.ogg",
 		"se_gamefullcombo.ogg",
 		"se_results_countup.ogg",
 		"se_results_crown.ogg",
-		
 		"v_fullcombo.ogg",
 		"v_renda.ogg",
 		"v_results_fullcombo.ogg",
