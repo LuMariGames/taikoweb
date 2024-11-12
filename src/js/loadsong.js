@@ -233,7 +233,7 @@ class LoadSong{
 					let img = document.createElement("img")
 					let force = filenameAb.startsWith("bg_song_") && this.touchEnabled
 					img.crossOrigin = "anonymous"
-					var url = gameConfig.assets_baseurl + "img/" + filenameAb + ".png"
+					var url = gameConfig.assets_baseurl + filenameAb + ".png"
 					this.addPromise(pageEvents.load(img).then(() => {
 						return this.scaleImg(img, filenameAb, "", force)
 					}), url)
