@@ -1,7 +1,16 @@
+Mario Taiko(v1.4)  
+1. 楽曲の追加
+・ライアーダンサー
+・テトリス / 柊マグネタイト feat.重音テトSV
+・はいよろこんで
+・溺愛快楽BLACK OUT / ゆぅ69 feat.重音テト
+・DEJA VU
+・Vicissitudes / luna3419 vs mamekakao
+・げんてん / 大漠波新 feat.MEIKO
+・おぎゃりないざー / CosMo.B.S.P.310 Remix feat.初音ミク
+
 Mario Taiko(v1.3)
-1. ダウンロード機能の追加
-楽曲を選択した後、「Download」を選択すると出来ます！
-2. 楽曲の追加
+1. 楽曲の追加
 ・RUNNING IN THE 90's
 ・ヨイ！ヨイ！ヨイ！！！！
 ・DON'T STAND SO CLOSE
