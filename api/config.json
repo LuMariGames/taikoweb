@@ -7,7 +7,7 @@
   },
   "accounts": false,
   "assets_baseurl": "https://cdn.glitch.global/c3725514-02a7-4215-a610-7270b7c8dd2f/",
-  "assets_no_dir": false,
+  "assets_no_dir": true,
   "custom_js": "",
   "email": null,
   "google_credentials": {
