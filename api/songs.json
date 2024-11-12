@@ -1772,5 +1772,382 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 43,
+    "order": 43,
+    "title": "ライアーダンサー",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 44,
+    "order": 44,
+    "title": "テトリス",
+    "subtitle": "柊マグネタイト feat.重音テトSV",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 8,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 45,
+    "order": 45,
+    "title": "はいよろこんで",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 46,
+    "order": 46,
+    "title": "溺愛快楽BLACK OUT",
+    "subtitle": "ゆぅ69 feat.重音テト",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 47,
+    "order": 47,
+    "title": "DEJA VU",
+    "subtitle": "「頭文字D Second Stage」より",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 48,
+    "order": 48,
+    "title": "Vicissitudes",
+    "subtitle": "luna3419 vs mamekakao",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 49,
+    "order": 49,
+    "title": "げんてん",
+    "subtitle": "大漠波新 feat.MEIKO",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 50,
+    "order": 50,
+    "title": "おぎゃりないざー",
+    "subtitle": "CosMo.B.S.P.310 Remix feat. 初音ミク",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 10,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 51,
+    "order": 51,
+    "title": "？？？",
+    "subtitle": "",
+    "courses": {
+      "easy": {
+        "stars": null
+      },
+      "hard": {
+        "stars": null
+      },
+      "normal": {
+        "stars": null
+      },
+      "oni": {
+        "stars": null,
+        "branch": false
+      },
+      "ura": {
+        "stars": null
+      }
+    },
+    "preview": 0,
+    "category_id": 8,
+    "category": "download",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
