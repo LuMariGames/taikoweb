@@ -2145,29 +2145,21 @@
   {
     "id": 51,
     "order": 51,
-    "title": "？？？",
+    "title": "Got The Groove",
     "subtitle": "",
     "courses": {
-      "easy": {
-        "stars": null
-      },
-      "hard": {
-        "stars": null
-      },
-      "normal": {
-        "stars": null
-      },
+      "easy": null,
+      "hard": null,
+      "normal": null,
       "oni": {
-        "stars": null,
+        "stars": 7,
         "branch": false
       },
-      "ura": {
-        "stars": null
-      }
+      "ura": null
     },
     "preview": 0,
-    "category_id": 8,
-    "category": "download",
+    "category_id": 1,
+    "category": "Pop",
     "title_lang": {
       "ja": null,
       "en": null,
