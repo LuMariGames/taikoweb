@@ -1684,9 +1684,15 @@
     "title": "超最終鬼畜妹フランドール・S",
     "subtitle": "",
     "courses": {
-      "easy": null,
-      "hard": null,
-      "normal": null,
+      "easy": {
+        "stars": 6
+      },
+      "hard": {
+        "stars": 8
+      },
+      "normal": {
+        "stars": 8
+      },
       "oni": {
         "stars": 10
       },
