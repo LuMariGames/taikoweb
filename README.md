@@ -1,4 +1,8 @@
-Mario Taiko(v1.4)  
+息抜きで作った太鼓ウェブです。
+
+## アプデ内容一覧
+<details><summary>Mario Taiko(v1.4)</summary>
+ 
 1. 楽曲の追加
  - ライアーダンサー
  - テトリス / 柊マグネタイト feat.重音テトSV
@@ -16,8 +20,10 @@ Mario Taiko(v1.4)
  - 超最終鬼畜妹フランドール・S
 3. 一部楽曲の削除
  - 百鬼祭 / Kanaria feat.初音ミク
+</details>
 
-Mario Taiko(v1.3)  
+<details><summary>Mario Taiko(v1.3)</summary>
+ 
 1. 楽曲の追加
  - RUNNING IN THE 90's
  - ヨイ！ヨイ！ヨイ！！！！
@@ -29,22 +35,30 @@ Mario Taiko(v1.3)
  - 超最終鬼畜妹フランドール・S
  - ハナタバ / MIMI feat.可不
  - Retribution ~ Cycle of Rede
+</details>
 
-Mario Taiko(v1.22)
+<details><summary>Mario Taiko(v1.22)</summary>
+ 
 1. 超高難易度楽曲の追加！
  - 嬢王 / 八王子P feat.初音ミク
+</details>
 
-Mario Taiko(v1.21)  
+<details><summary>Mario Taiko(v1.21)</summary>
+ 
 1. 一部楽曲の難易度がおかしくなっていたのを修正
 2. 楽曲の追加
  - 百鬼祭
  - ヒアソビ
  - 風となれ (期間限定！2024/04/29まで)
+</details>
 
-Mario Taiko(v1.2)
+<details><summary>Mario Taiko(v1.2)</summary>
+ 
 1. Google Driveによるインポートの対応
+</details>
 
-Mario Taiko(v1.101)
+<details><summary>Mario Taiko(v1.101)</summary>
+
 1. 楽曲の追加
  - シークライファー(FULLver.)
  - おこちゃま戦争(FULLver.)
@@ -59,6 +73,9 @@ Mario Taiko(v1.101)
 2. 一部譜面の修正
  - ジダンダーナイト(裏)
  - プラネタリウム・レヴュー
+</details>
 
-Mario Taiko(v1.1)
+<details><summary>Mario Taiko(v1.3)</summary>
+ 
 1. タタコンの対応
+</details>
