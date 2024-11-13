@@ -6,7 +6,7 @@
     "version": "8.31.23"
   },
   "accounts": false,
-  "assets_baseurl": "https://raw.githubusercontent.com/LuMariGames/taikoweb/refs/heads/main/assets/",
+  "assets_baseurl": "/assets/",
   "assets_no_dir": true,
   "custom_js": "",
   "email": null,
@@ -19,5 +19,5 @@
   },
   "plugins": null,
   "preview_type": "mp3",
-  "songs_baseurl": "https://raw.githubusercontent.com/LuMariGames/taikoweb/refs/heads/main/songs/"
+  "songs_baseurl": "/songs/"
 }
