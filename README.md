@@ -10,8 +10,11 @@ Mario Taiko(v1.4)
  - おぎゃりないざー / CosMo.B.S.P.310 Remix feat.初音ミク
  - Got The Groove
  - どんな結末がお望みだい？
+ - でいどりーむ / 豆カカオ feat.初音ミク
 2. 一部楽曲の難易度追加
  - 超最終鬼畜妹フランドール・S
+3. 一部楽曲の削除
+ - 百鬼祭 / Kanaria feat.初音ミク
 
 Mario Taiko(v1.3)  
 1. 楽曲の追加
