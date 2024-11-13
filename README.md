@@ -75,7 +75,7 @@
  - プラネタリウム・レヴュー
 </details>
 
-<details><summary>Mario Taiko(v1.3)</summary>
+<details><summary>Mario Taiko(v1.1)</summary>
  
 1. タタコンの対応
 </details>
