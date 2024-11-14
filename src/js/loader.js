@@ -73,7 +73,7 @@ class Loader{
 		}))
 		
 		for(var name in assets.fonts){
-			var url = gameConfig.assets_baseurl + "fonts/" + assets.fonts[name] + "?dl=1"
+			var url = gameConfig.assets_baseurl + "fonts/" + assets.fonts[name]
 			this.addPromise(new FontFace(name, "url('" + url + "')").load().then(font => {
 				document.fonts.add(font)
 			}), url)
@@ -83,7 +83,7 @@ class Loader{
 			var id = this.getFilename(name)
 			var image = document.createElement("img")
 			image.crossOrigin = "anonymous"
-			var url = gameConfig.assets_baseurl + "img/" + name + "?dl=1"
+			var url = gameConfig.assets_baseurl + "img/" + name
 			this.addPromise(pageEvents.load(image), url)
 			image.id = name
 			image.src = url
@@ -94,7 +94,7 @@ class Loader{
 		var css = []
 		for(let selector in assets.cssBackground){
 			let name = assets.cssBackground[selector]
-			var url = gameConfig.assets_baseurl + "img/" + name + "?dl=1
+			var url = gameConfig.assets_baseurl + "img/" + name
 			this.addPromise(loader.ajax(url, request => {
 				request.responseType = "blob"
 			}).then(blob => {
@@ -210,7 +210,7 @@ class Loader{
 				.filter(cat => cat.songSkin && cat.songSkin.bg_img)
 				.forEach(cat => {
 					let name = cat.songSkin.bg_img
-					var url = gameConfig.assets_baseurl + "img/" + name + "?dl=1"
+					var url = gameConfig.assets_baseurl + "img/" + name
 					categoryPromises.push(loader.ajax(url, request => {
 						request.responseType = "blob"
 					}).then(blob => {
@@ -406,7 +406,7 @@ class Loader{
 		})
 	}
 	soundUrl(name){
-		return gameConfig.assets_baseurl + "audio/" + name + "?dl=1"
+		return gameConfig.assets_baseurl + "audio/" + name
 	}
 	loadSound(name, gain){
 		var id = this.getFilename(name)
