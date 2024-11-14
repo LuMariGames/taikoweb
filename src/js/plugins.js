@@ -297,7 +297,7 @@ class PluginLoader{
 		if(typeof script === "string"){
 			if(raw){
 				this.url = URL.createObjectURL(new Blob([script], {
-					type: "application/javascript"
+					type: "text/javascript"
 				}))
 			}else{
 				this.url = script
