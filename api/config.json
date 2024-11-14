@@ -6,7 +6,7 @@
     "version": "8.31.23"
   },
   "accounts": false,
-  "assets_baseurl": "./assets/",
+  "assets_baseurl": "https://www.dropbox.com/scl/fi/2wu7c8a5agrbatukwk9zs/",
   "assets_no_dir": true,
   "custom_js": "",
   "email": null,
