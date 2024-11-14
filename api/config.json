@@ -17,13 +17,7 @@
     "oauth_client_id": "456538279993-1vcm85e8ha3pgr0ln94gplq6gj5fjvt5.apps.googleusercontent.com",
     "project_number": ""
   },
-  "plugins": [
-    {
-      "hide": true,
-      "start": true,
-      "url": "/plugins/workarounds/offline-account.taikoweb.js"
-    }
-  ],
+  "plugins": null,
   "preview_type": "mp3",
   "songs_baseurl": "./songs/"
 }
