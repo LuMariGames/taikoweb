@@ -5,7 +5,7 @@
     "url": "/",
     "version": "8.31.23"
   },
-  "accounts": true,
+  "accounts": false,
   "assets_baseurl": "./assets/",
   "assets_no_dir": true,
   "custom_js": "",
