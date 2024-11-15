@@ -2320,7 +2320,7 @@
     "courses": {
       "easy": {
         "stars": 5
-      }
+      },
       "hard": {
         "stars": 8
       },
@@ -2328,7 +2328,8 @@
         "stars": 7
       },
       "oni": {
-        "stars": 10
+        "stars": 10,
+        "branch": false
       },
       "ura": null
     },
