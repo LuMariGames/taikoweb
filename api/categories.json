@@ -136,31 +136,31 @@
     },
     "title": "NAMCO Original",
     "title_lang": {
-      "cn": "MARIO原来的",
-      "en": "Mario original",
-      "ja": "マリオオリジナル",
-      "ko": "MARIO오리지널",
-      "tw": "MARIO原來的"
+      "cn": "NAMCO原来的",
+      "en": "Namco original",
+      "ja": "ナムコオリジナル",
+      "ko": "NAMCO오리지널",
+      "tw": "NAMCO原來的"
     }
   },
   {
     "aliases": null,
     "id": 8,
     "song_skin": {
-      "background": "#00aeef",
-      "bg_img": "bg_genre_7.png",
-      "border": ["#267ba7", "#0072bc"],
-      "info_fill": "##67a7cc",
-      "outline": "#007dc5",
+      "background": "#ff5716",
+      "bg_img": "bg_genre_6.png",
+      "border": ["#ffa66b", "#b53000"],
+      "info_fill": "#961e00",
+      "outline": "#941c00",
       "sort": 7
     },
-    "title": "download",
+    "title": "MARIO Original",
     "title_lang": {
-      "cn": "下载乐谱",
-      "en": "Download sheet music",
-      "ja": "ダウンロード譜面",
-      "ko": "다운로드 악보",
-      "tw": "下載樂譜"
+      "cn": "MARIO原来的",
+      "en": "Mario original",
+      "ja": "マリオオリジナル",
+      "ko": "MARIO오리지널",
+      "tw": "MARIO原來的"
     }
   },
   {
