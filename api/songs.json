@@ -2311,5 +2311,51 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 55,
+    "order": 55,
+    "title": "Daisuke",
+    "subtitle": "",
+    "courses": {
+      "easy": {
+        "stars": 5
+      }
+      "hard": {
+        "stars": 8
+      },
+      "normal": {
+        "stars": 7
+      },
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
