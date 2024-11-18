@@ -2405,11 +2405,17 @@
     "title": "どーなってんの？",
     "subtitle": "feat.重音テト",
     "courses": {
-      "easy": null,
-      "normal": null,
-      "hard": null,
+      "easy": {
+        "stars": 5
+      },
+      "normal": {
+        "stars": 6
+      },
+      "hard": {
+        "stars": 7
+      },
       "oni": {
-        "stars": 10,
+        "stars": 9,
         "branch": false
       },
       "ura": null
