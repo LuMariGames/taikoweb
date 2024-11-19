@@ -21,72 +21,72 @@
     {
       "hide": false,
       "start": true,
-      "url": "/default-patches.taikoweb.js"
+      "url": "../default-patches.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/change-music-speed.taikoweb.js"
+      "url": "../plugins/gameplay/change-music-speed.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/change-timing-window.taikoweb.js"
+      "url": "../plugins/gameplay/change-timing-window.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/custom-scroll-speed.taikoweb.js"
+      "url": "../plugins/gameplay/custom-scroll-speed.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "/plugins/gameplay/rainbow-crown.taikoweb.js"
+      "url": "../plugins/gameplay/rainbow-crown.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/skip-results-in-multiplayer.taikoweb.js"
+      "url": "../plugins/gameplay/skip-results-in-multiplayer.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/spartan-mode.taikoweb.js"
+      "url": "../plugins/gameplay/spartan-mode.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/gameplay/multiplayer-custom-songs.taikoweb.js"
+      "url": "../plugins/gameplay/multiplayer-custom-songs.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": "/plugins/song-select/change-song-select-speed.taikoweb.js"
+      "url": "../plugins/song-select/change-song-select-speed.taikoweb.js"
     },
     {
       "hide": true,
       "start": true,
-      "url": "./plugins/song-select/download-chart.taikoweb.js"
+      "url": "../plugins/song-select/download-chart.taikoweb.js"
     },
     {
       "hide": true,
       "start": true,
-      "url": "./plugins/workarounds/offline-account.taikoweb.js"
+      "url": "../plugins/workarounds/offline-account.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "./plugins/languages/language-es-419.taikoweb.js"
+      "url": "../plugins/languages/language-es-419.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "./plugins/languages/language-fr.taikoweb.js"
+      "url": "../plugins/languages/language-fr.taikoweb.js"
     },
     {
       "hide": false,
       "start": true,
-      "url": "./plugins/languages/language-pl.taikoweb.js"
+      "url": "../plugins/languages/language-pl.taikoweb.js"
     },
     {
       "hide": false,
