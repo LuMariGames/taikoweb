@@ -20,23 +20,18 @@
   "plugins": [
     {
       "hide": false,
-      "start": true,
-      "url": "https://lumarigames.github.io/taikoweb/default-patches.taikoweb.js"
+      "start": false,
+      "url": "https://lumarigames.github.io/taikoweb/plugins/gameplay/change-music-speed.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": ".././plugins/gameplay/change-music-speed.taikoweb.js"
+      "url": "https://lumarigames.github.io/taikoweb/plugins/gameplay/change-timing-window.taikoweb.js"
     },
     {
       "hide": false,
       "start": false,
-      "url": ".././plugins/gameplay/change-timing-window.taikoweb.js"
-    },
-    {
-      "hide": false,
-      "start": false,
-      "url": ".././plugins/gameplay/custom-scroll-speed.taikoweb.js"
+      "url": "https://lumarigames.github.io/taikoweb/plugins/gameplay/custom-scroll-speed.taikoweb.js"
     },
     {
       "hide": false,
