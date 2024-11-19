@@ -1,6 +1,15 @@
 息抜きで作った太鼓ウェブです。
 
 ## アプデ内容一覧
+<details><summary>Mario Taiko(v1.5)</summary>
+
+1. 機能の追加
+ - ダウンロード機能の復活
+ - プラグイン機能の復活
+2. 不具合修正
+ - 楽曲「悪役にキスシーンを」のダウンロード時に本来と異なる音源が入る不具合の修正
+</details>
+
 <details><summary>Mario Taiko(v1.4)</summary>
  
 1. 楽曲の追加
