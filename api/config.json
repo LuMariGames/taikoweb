@@ -20,6 +20,11 @@
   "plugins": [
     {
       "hide": false,
+      "start": true,
+      "url": "https://lumarigames.github.io/taikoweb/default-patches.taikoweb.js"
+    },
+    {
+      "hide": false,
       "start": false,
       "url": "https://lumarigames.github.io/taikoweb/plugins/gameplay/change-music-speed.taikoweb.js"
     },
