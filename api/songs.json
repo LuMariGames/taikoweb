@@ -2522,9 +2522,7 @@
     "volume": 1.0,
     "lyrics": false,
     "offset": null,
-    "song_skin": {
-      "song": "bg_song_vocaloid.png"
-    },
+    "song_skin": "vocaloid",
     "maker": null,
     "hash": null
   }
