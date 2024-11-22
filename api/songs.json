@@ -2522,8 +2522,10 @@
     "volume": 1.0,
     "lyrics": false,
     "offset": null,
-    "song_skin": "vocaloid",
-    "maker": null,
+    "song_skin": {
+      "song": "bg_song_vocaloid.png"
+    },
+    "maker": "MarioGames",
     "hash": null
   }
 ]
