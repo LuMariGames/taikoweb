@@ -2522,7 +2522,7 @@
     "volume": 1.0,
     "lyrics": false,
     "offset": null,
-    "song_skin": 6,
+    "song_skin": "vocaloid",
     "maker": null,
     "hash": null
   }
