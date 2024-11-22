@@ -14,9 +14,6 @@ export default class Plugin extends Patch{
 			}),
 			new EditFunction(ImportSongs.prototype, "load").load(str => {
 				return plugins.strReplace(str, '!this.limited && (path.indexOf("/taiko-web assets/")', `(path.indexOf("/taiko-web assets/")`)
-			}),
-			new EditFunction(LoadSong.prototype, "loadSongBg").load(str => {
-				return plugins.strReplace(str, ' + "img/"', ` + (gameConfig.assets_no_dir ? "" : "img/")`)
 			})
 		)
 	}
