@@ -1640,7 +1640,7 @@
   },
   {
     "id": 39,
-    "order": Math.random() * ( 67 - 60 ) + 60,
+    "order": "random",
     "title": "Random",
     "subtitle": "",
     "courses": {
