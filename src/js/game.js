@@ -640,6 +640,9 @@ class Game{
 		if(this.combo > this.globalScore.maxCombo){
 			this.globalScore.maxCombo = this.combo
 		}
+		if(this.combo === 50 || this.combo > 0 && this.combo % 100 === 0 && this.combo <= 5000){
+			this.controller.playSound("v_combo_" + this.combo)
+		}
 		if (this.songData.scoremode == 2 && this.combo > 0 && this.combo % 100 == 0) { 
 			this.globalScore.points += 10000;
 		}
