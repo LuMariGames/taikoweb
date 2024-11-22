@@ -18,9 +18,9 @@ export default class Plugin extends Patch{
 		)
 	}
 	start(){
-		p2disable()
+		p2.enable()
 	}
 	stop(){
-		p2enable()
+		p2.disable()
 	}
 }
