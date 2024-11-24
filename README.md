@@ -11,6 +11,9 @@
 3. 楽曲の追加
  - 東京テディベア / Neru
  - あいのうた / 大漠波新 feat.初音ミク&重音テト
+ - む / 大漠波新 feat.重音テト&足立レイ
+4. 一部譜面の修正
+ - ヒアソビ / かめりあ feat.初音ミク
 </details>
 
 <details><summary>Mario Taiko(v1.4)</summary>
