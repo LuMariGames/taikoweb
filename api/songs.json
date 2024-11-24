@@ -1640,7 +1640,7 @@
   },
   {
     "id": 39,
-    "order": "random",
+    "order": 39,
     "title": "Random",
     "subtitle": "",
     "courses": {
