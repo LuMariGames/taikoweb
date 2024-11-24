@@ -70,8 +70,8 @@
       "url": "https://lumarigames.github.io/taikoweb/plugins/song-select/download-chart.taikoweb.js"
     },
     {
-      "hide": false,
-      "start": false,
+      "hide": true,
+      "start": true,
       "url": "https://lumarigames.github.io/taikoweb/plugins/workarounds/offline-account.taikoweb.js"
     },
     {
