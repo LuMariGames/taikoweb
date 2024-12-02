@@ -13,9 +13,12 @@
  - あいのうた / 大漠波新 feat.初音ミク&重音テト
  - む / 大漠波新 feat.重音テト&足立レイ
  - 自傷無色
+ - ランダーク
 4. 一部譜面の修正
  - ヒアソビ / かめりあ feat.初音ミク
  - ブルーストーム
+5. 一部楽曲の難易度追加
+ - ハナタバ / MIMI feat.可不
 </details>
 
 <details><summary>Mario Taiko(v1.4)</summary>
