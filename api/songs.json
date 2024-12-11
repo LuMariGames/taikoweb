@@ -253,7 +253,10 @@
         "stars": 9,
         "branch": false
       },
-      "ura": null
+      "ura": {
+        "stars": 9
+      }
+
     },
     "preview": 0,
     "category_id": 3,
