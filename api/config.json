@@ -7,7 +7,6 @@
   },
   "accounts": false,
   "assets_baseurl": "./assets/",
-  "multiplayer_url": "https://lumarigames.github.io/taikoweb/",
   "assets_no_dir": true,
   "custom_js": "",
   "email": null,
