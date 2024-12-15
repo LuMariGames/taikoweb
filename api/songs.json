@@ -2690,5 +2690,88 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 64,
+    "order": 64,
+    "title": "TA・DA ☆ YO・SHI",
+    "subtitle": "Y&Co.",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 65,
+    "order": 65,
+    "title": "アサガオの散る頃に",
+    "subtitle": "ぷす feat.望月 穂波",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 5
+      },
+      "ura": {
+        "stars": 7
+      }
+
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
