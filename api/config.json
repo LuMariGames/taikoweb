@@ -71,21 +71,6 @@
     {
       "hide": true,
       "start": true,
-      "url": "https://lumarigames.github.io/taikoweb/plugins/languages/language-es-419.taikoweb.js"
-    },
-    {
-      "hide": true,
-      "start": true,
-      "url": "https://lumarigames.github.io/taikoweb/plugins/languages/language-fr.taikoweb.js"
-    },
-    {
-      "hide": true,
-      "start": true,
-      "url": "https://lumarigames.github.io/taikoweb/plugins/languages/language-pl.taikoweb.js"
-    },
-    {
-      "hide": true,
-      "start": true,
       "url": "https://lumarigames.github.io/taikoweb/plugins/accessibility/disable-animations.taikoweb.js"
     },
     {
@@ -142,11 +127,6 @@
       "hide": false,
       "start": false,
       "url": "https://lumarigames.github.io/taikoweb/plugins/debugging-testing/convert-lyrics-to-vtt.taikoweb.js"
-    },
-    {
-      "hide": false,
-      "start": false,
-      "url": "https://lumarigames.github.io/taikoweb/plugins/examples/language-en.taikoweb.js"
     },
     {
       "hide": false,
