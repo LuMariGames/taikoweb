@@ -31,7 +31,7 @@ export default class Plugin extends Patch{
 		"pause note explosion": false,
 		"note shadow": true,
 		"note shadow fade out": true,
-		"flying notes": false,
+		"flying notes": true,
 		"flying note fade": true,
 		"go go time fire fade": true,
 		"pause go go time fire": true,
@@ -139,7 +139,7 @@ export default class Plugin extends Patch{
 						continue
 					}`, 'var animPoint = (ms - animT) / 490')
 					str = plugins.insertAfter(str,
-					'if(ms < animT + 810){', `
+					'if(ms < animT + 900){', `
 					continue;`)
 				}
 				if(d["flying notes"] || d["flying note fade"]){
