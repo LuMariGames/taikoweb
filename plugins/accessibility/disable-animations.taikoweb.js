@@ -139,7 +139,7 @@ export default class Plugin extends Patch{
 						continue
 					}`, 'var animPoint = (ms - animT) / 490')
 					str = plugins.insertAfter(str,
-					'if(ms < animT + 820){', `
+					'if(ms < animT + 811){', `
 					continue;`)
 				}
 				if(d["flying notes"] || d["flying note fade"]){
