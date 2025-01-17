@@ -12,8 +12,8 @@ export default class Plugin extends Patch{
 		// song select
 		"song select background": true,
 		"song select background fade": true,
-		"song select move": false,
-		"song select fade in": false,
+		"song select move": true,
+		"song select fade in": true,
 		"song select ura fade": true,
 		"song select ura arrow": false,
 		// in-game
