@@ -17,7 +17,7 @@ export default class Plugin extends Patch{
 		"song select ura fade": true,
 		"song select ura arrow": false,
 		// in-game
-		"pause don": false,
+		"pause don": true,
 		"don background": true,
 		"song background": true,
 		"taiko pressed keys": false,
@@ -27,8 +27,8 @@ export default class Plugin extends Patch{
 		"judge score jump": false,
 		"judge score fade": true,
 		"note faces": true,
-		"note explosion": false,
-		"pause note explosion": false,
+		"note explosion": true,
+		"pause note explosion": true,
 		"note shadow": true,
 		"note shadow fade out": true,
 		"flying notes": true,
@@ -38,7 +38,7 @@ export default class Plugin extends Patch{
 		"go go time fireworks": true,
 		"pause go go time fireworks": true,
 		"branch bar change": false,
-		"branch text change": false,
+		"branch text change": true,
 		// results
 		"results fade in": true,
 		"results object fade in": true,
