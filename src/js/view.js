@@ -1039,10 +1039,6 @@
 			}
 		}
 		
-		// Animating notes
-		this.drawAnimatedCircles(this.controller.getCircles())
-		this.drawAnimatedCircles(this.drumroll)
-		
 		// Go-go time fireworks
 		if(!this.touchEnabled && !this.portrait && !this.multiplayer){
 			this.assets.drawAssets("foreground")
