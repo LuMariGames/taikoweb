@@ -3259,7 +3259,7 @@
     },
     "type": "tja",
     "music_type": "ogg",
-    "volume": 0.5,
+    "volume": 1.0,
     "lyrics": false,
     "offset": null,
     "song_skin": null,
