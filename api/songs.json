@@ -3341,7 +3341,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.0220703125,
+    "offset": -0.0220703125,
     "song_skin": null,
     "maker": null,
     "hash": null
