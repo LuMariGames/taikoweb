@@ -3305,5 +3305,45 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 79,
+    "order": 79,
+    "title": "ワガハイはボスである！",
+    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": 0.0220703125,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
