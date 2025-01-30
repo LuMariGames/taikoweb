@@ -35,7 +35,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -88,7 +88,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -129,7 +129,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -176,7 +176,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -226,7 +226,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -279,7 +279,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -320,7 +320,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -361,7 +361,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -402,7 +402,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -449,7 +449,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -490,7 +490,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -531,7 +531,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -584,7 +584,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -625,7 +625,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -666,7 +666,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -716,7 +716,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -756,7 +756,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -797,7 +797,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -837,7 +837,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -890,7 +890,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -931,7 +931,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -972,7 +972,7 @@
     "music_type": "mp3",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1013,7 +1013,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1054,7 +1054,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1095,7 +1095,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1138,7 +1138,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1178,7 +1178,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1218,7 +1218,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1259,7 +1259,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1300,7 +1300,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1347,7 +1347,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1387,7 +1387,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1429,7 +1429,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1470,7 +1470,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1511,7 +1511,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1556,7 +1556,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1596,7 +1596,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1636,7 +1636,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1676,7 +1676,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1722,7 +1722,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1771,7 +1771,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1820,7 +1820,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1861,7 +1861,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1902,7 +1902,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1943,7 +1943,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -1984,7 +1984,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2025,7 +2025,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2066,7 +2066,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2107,7 +2107,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2148,7 +2148,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2189,7 +2189,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2230,7 +2230,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2271,7 +2271,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2312,7 +2312,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2359,7 +2359,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2399,7 +2399,7 @@
     "music_type": "mp3",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2446,7 +2446,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2486,7 +2486,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2526,7 +2526,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2566,7 +2566,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2606,7 +2606,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2646,7 +2646,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2686,7 +2686,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2726,7 +2726,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2769,7 +2769,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2809,7 +2809,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2849,7 +2849,7 @@
     "music_type": "mp3",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2892,7 +2892,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2939,7 +2939,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -2979,7 +2979,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3019,7 +3019,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3059,7 +3059,7 @@
     "music_type": "ogg",
     "volume": 0.8,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3101,7 +3101,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3141,7 +3141,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3181,7 +3181,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3221,7 +3221,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3261,7 +3261,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3301,7 +3301,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
@@ -3341,7 +3341,7 @@
     "music_type": "ogg",
     "volume": 1.0,
     "lyrics": false,
-    "offset": 0.1,
+    "offset": -0.1,
     "song_skin": null,
     "maker": null,
     "hash": null
