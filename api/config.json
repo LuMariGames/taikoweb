@@ -129,7 +129,7 @@
       "url": "https://lumarigames.github.io/taikoweb/plugins/debugging-testing/convert-lyrics-to-vtt.taikoweb.js"
     },
     {
-      "hide": false,
+      "hide":  true,
       "start": false,
       "url": "https://lumarigames.github.io/taikoweb/disable-judge-scores.taikoweb.js"
     }
