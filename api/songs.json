@@ -3427,16 +3427,16 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
+    "id": 82,
+    "order": 82,
+    "title": "転がるコインのように",
     "subtitle": "「DanceDanceRevolution with MARIO」より",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 10
       },
       "ura": null
     },
@@ -3467,22 +3467,22 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
-    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "id": 83,
+    "order": 83,
+    "title": "のだ / K90 REMIX",
+    "subtitle": "",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 8
       },
       "ura": null
     },
     "preview": 0,
-    "category_id": 6,
-    "category": "Video Game Series",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
     "title_lang": {
       "ja": null,
       "en": null,
@@ -3507,22 +3507,62 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
-    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "id": 84,
+    "order": 84,
+    "title": "命に嫌われている。",
+    "subtitle": "カンザキイオリ feat.宵崎 奏",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 8
       },
       "ura": null
     },
     "preview": 0,
-    "category_id": 6,
-    "category": "Video Game Series",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "mp3",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 85,
+    "order": 85,
+    "title": "レイドボス：カタストロフィック・ラヴ",
+    "subtitle": "cosMo@暴走P feat.結月ゆかり",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
     "title_lang": {
       "ja": null,
       "en": null,
@@ -3547,22 +3587,22 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
-    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "id": 86,
+    "order": 86,
+    "title": "終点",
+    "subtitle": "cosMo@暴走P feat.初音ミク",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 10
       },
       "ura": null
     },
     "preview": 0,
-    "category_id": 6,
-    "category": "Video Game Series",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
     "title_lang": {
       "ja": null,
       "en": null,
@@ -3587,22 +3627,22 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
-    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "id": 87,
+    "order": 87,
+    "title": "あなたのいないデスクトップ",
+    "subtitle": "豆カカオ feat.初音ミク",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 10
       },
       "ura": null
     },
     "preview": 0,
-    "category_id": 6,
-    "category": "Video Game Series",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
     "title_lang": {
       "ja": null,
       "en": null,
@@ -3627,10 +3667,10 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
-    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "id": 88,
+    "order": 88,
+    "title": "ネガポジ＊コンティニューズ",
+    "subtitle": "sasakure.UK feat.初音ミク",
     "courses": {
       "easy": null,
       "normal": null,
@@ -3641,8 +3681,8 @@
       "ura": null
     },
     "preview": 0,
-    "category_id": 6,
-    "category": "Video Game Series",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
     "title_lang": {
       "ja": null,
       "en": null,
@@ -3667,22 +3707,62 @@
     "hash": null
   },
   {
-    "id": 79,
-    "order": 79,
-    "title": "ワガハイはボスである！",
-    "subtitle": "「DanceDanceRevolution with MARIO」より",
+    "id": 89,
+    "order": 89,
+    "title": "春に幽霊",
+    "subtitle": "saikawa feat.shavedice",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 7
       },
       "ura": null
     },
     "preview": 0,
-    "category_id": 6,
-    "category": "Video Game Series",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 90,
+    "order": 90,
+    "title": "友よ ～この先もずっと...",
+    "subtitle": "ケツメイシ",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 8
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
     "title_lang": {
       "ja": null,
       "en": null,
