@@ -74,13 +74,13 @@
       "url": "https://lumarigames.github.io/taikoweb/plugins/accessibility/disable-animations.taikoweb.js"
     },
     {
-      "hide": false,
+      "hide": true,
       "start": true,
       "url": "https://lumarigames.github.io/taikoweb/plugins/accessibility/backup-and-restore-scores.taikoweb.js"
     },
     {
-      "hide": false,
-      "start": false,
+      "hide": true,
+      "start": true,
       "url": "https://lumarigames.github.io/taikoweb/plugins/accessibility/dpad-axis-input.taikoweb.js"
     },
     {
