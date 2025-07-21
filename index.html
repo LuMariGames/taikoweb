@@ -12,6 +12,13 @@
 
     <link rel="stylesheet" href="src/css/loader.css" />
 
+    <script>
+      if (location.protocol === "http:") {
+        var url = new URL(location.href);
+        url.protocol = "https:";
+        location.href = url.toString();
+      }
+    </script>
     <script type="text/javascript" src="src/js/assets.js"></script>
     <script type="text/javascript" src="src/js/strings.js"></script>
     <script type="text/javascript" src="src/js/pageevents.js"></script>
