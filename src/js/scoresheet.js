@@ -901,7 +901,6 @@ class Scoresheet{
 		return assets.sounds[id + (this.multiplayer ? "_p" + (p + 1) : "")]
 	}
 	playSound(id, p){
-		this.getSound(id, p).currentTime = 0
 		this.getSound(id, p).play()
 	}
 	loopSound(id, p, args){
