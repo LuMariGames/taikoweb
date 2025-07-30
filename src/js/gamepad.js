@@ -5,35 +5,62 @@ class Gamepad{
 	init(bindings, callback){
 		this.bindings = bindings
 		this.callback = !!callback
-		this.b = {
-			"a": 0,
-			"b": 1,
-			"x": 2,
-			"y": 3,
-			"lb": 4,
-			"rb": 5,
-			"lt": 6,
-			"rt": 7,
-			"back": 8,
-			"start": 9,
-			"ls": 10,
-			"rs": 11,
-			"u": 12,
-			"d": 13,
-			"l": 14,
-			"r": 15,
-			"guide": 16,
-			"lsu": "lsu",
-			"lsr": "lsr",
-			"lsd": "lsd",
-			"lsl": "lsl"
+		if (/android/i.test(navigator.userAgent)) {
+			this.b = {
+				"a": 1,
+				"b": 0,
+				"x": 2,
+				"y": null,
+				"lb": 3,
+				"rb": null,
+				"lt": 4,
+				"rt": 5,
+				"back": 6,
+				"start": 7,
+				"ls": 8,
+				"rs": 9,
+				"u": 12,
+				"d": 13,
+				"l": 14,
+				"r": 15,
+				"guide": 16,
+				"lsu": "lsu",
+				"lsr": "lsr",
+				"lsd": "lsd",
+				"lsl": "lsl"
+			}
+		}
+		else if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+			this.b = {
+				"a": 0,
+				"b": 1,
+				"x": 2,
+				"y": 3,
+				"lb": 4,
+				"rb": 5,
+				"lt": 6,
+				"rt": 7,
+				"back": 8,
+				"start": 9,
+				"ls": 10,
+				"rs": 11,
+				"u": 12,
+				"d": 13,
+				"l": 14,
+				"r": 15,
+				"guide": null,
+				"lsu": "lsu",
+				"lsr": "lsr",
+				"lsd": "lsd",
+				"lsl": "lsl"
+			}
 		}
 		this.btn = {}
 		this.gamepadEvents = 0
 		if(callback){
 			this.interval = setInterval(() => {
 				this.play(callback)
-			}, 1000 / 60)
+			}, 1000 / 240)
 		}
 	}
 	play(callback){
