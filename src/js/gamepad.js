@@ -5,7 +5,7 @@ class Gamepad{
 	init(bindings, callback){
 		this.bindings = bindings
 		this.callback = !!callback
-		if (/android/.test(navigator.userAgent)) {
+		if (/Android|iPhone|iPad/.test(navigator.userAgent)) {
 			this.b = {
 				"a": 1,
 				"b": 0,
@@ -30,7 +30,7 @@ class Gamepad{
 				"lsl": "lsl"
 			}
 		}
-		else if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+		else {
 			this.b = {
 				"a": 0,
 				"b": 1,
