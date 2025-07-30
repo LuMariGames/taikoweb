@@ -34,14 +34,14 @@ class GameInput {
     if (layout === "b") {
       var gameBtn = {
         don_l: ["d", "r"],
-        don_r: ["a", "x"],
+        don_r: ["b", "y"],
         ka_l: ["u", "l", "lb", "lt"],
         ka_r: ["b", "y", "rb", "rt"],
       };
     } else if (layout === "c") {
       var gameBtn = {
         don_l: ["d", "l"],
-        don_r: ["a", "b"],
+        don_r: ["b", "a"],
         ka_l: ["u", "r", "lb", "lt"],
         ka_r: ["x", "y", "rb", "rt"],
       };
