@@ -38,8 +38,8 @@ class Settings{
 			},
 			gamepadLayout: {
 				type: "gamepad",
-				options: ["a", "b", "c"],
-				default: "a",
+				options: ["a", "b", "c", "d"],
+				default: "d",
 				gamepad: true
 			},
 			latency: {
@@ -52,7 +52,7 @@ class Settings{
 			},
 			easierBigNotes: {
 				type: "toggle",
-				default: false
+				default: true
 			},
 			showLyrics: {
 				type: "toggle",

@@ -451,31 +451,31 @@ var translations = {
 				"流れてくる音符がワクに重なったらバチで太鼓をたたこう！",
 				"赤い音符は面をたたこう（%sまたは%s）",
 				"青い音符はフチをたたこう（%sまたは%s）",
-				"USBコントローラがサポートされています！"
+				"USBコントローラとタタコンがサポートされています！"
 			],
 			en: [
 				"When a note overlaps the frame, that is your cue to hit the drum!",
 				"For red notes, hit the surface of the drum (%s or %s)...",
 				"...and for blue notes, hit the rim! (%s or %s)",
-				"USB controllers are also supported!"
+				"USB controller and Tatacon are supported！"
 			],
 			cn: [
 				"当流动的音符将与框框重叠时就用鼓棒敲打太鼓吧",
 				"遇到红色音符要敲打鼓面（%s或%s）",
 				"遇到蓝色音符则敲打鼓边（%s或%s）",
-				"USB控制器也支持！"
+				"支持 USB 控制器和 Tatacon！"
 			],
 			tw: [
 				"當流動的音符將與框框重疊時就用鼓棒敲打太鼓吧",
 				"遇到紅色音符要敲打鼓面（%s或%s）",
 				"遇到藍色音符則敲打鼓邊（%s或%s）",
-				"USB控制器也支持！"
+				"支援 USB 控制器和 Tatacon！"
 			],
 			ko: [
 				"이동하는 음표가 테두리와 겹쳐졌을 때 북채로 태고를 두드리자!",
 				"빨간 음표는 면을 두드리자 (%s 또는 %s)",
 				"파란 음표는 테를 두드리자 (%s 또는 %s)",
-				"USB 컨트롤러도 지원됩니다!"
+				"USB 컨트롤러와 타타콘이 지원됩니다!"
 			],
 		},
 		otherControls: {
@@ -636,7 +636,7 @@ var translations = {
 		},
 		resolution: {
 			name: {
-				ja: "ゲームの解像度",
+				ja: "ゲームの画質",
 				en: "Game Resolution",
 				cn: "游戏分辨率",
 				tw: "遊戲解析度",
@@ -745,6 +745,13 @@ var translations = {
 				cn: "类型C",
 				tw: "類型 C",
 				ko: "타입 C"
+      },
+			d: {
+				ja: "タタコン(Switch)",
+				en: "Tatacon(Switch)",
+				cn: "塔塔康(转变)",
+				tw: "塔塔康(轉變)",
+				ko: "타타콘(스위치)"
 			}
 		},
 		latency: {
@@ -793,7 +800,7 @@ var translations = {
 		},
 		easierBigNotes: {
 			name: {
-				ja: "簡単な大きな音符",
+				ja: "簡単な大音符",
 				en: "Easier Big Notes",
 				cn: "简单的大音符",
 				tw: "簡單的大音符",
@@ -1219,28 +1226,28 @@ var translations = {
 			ko: "%s 등의 호환되는 브라우저를 사용해주시기 바랍니다"
 		}
 	},
-	creative: {
-		creative: {
-			ja: "創作",
-			en: "Creative",
-			cn: "创作",
-			tw: "創作",
-			ko: "창작"
-		},
+  creative: {
+	  creative: {
+      ja: "新曲",
+			en: "New song",
+			cn: "新歌",
+			tw: "新歌",
+			ko: "신곡"
+	},
 		maker: {
 			ja: "メーカー",
 			en: "Maker:",
 			cn: "制作者",
 			tw: "製作者",
 			ko: "제작자:"
-		}
+    }
 	},
 	withLyrics: {
 		ja: "歌詞あり",
 		en: "With lyrics",
 		cn: "带歌词",
 		tw: "帶歌詞",
-		ko: "가사 포함됨"
+		ko: "가사 있음"
 	},
 	customSongs: {
 		title: {
