@@ -5,32 +5,7 @@ class Gamepad{
 	init(bindings, callback){
 		this.bindings = bindings
 		this.callback = !!callback
-		if (userAgent.indexOf('Android') > -1) {
-			this.b = {
-				"a": 0,
-				"b": 1,
-				"x": 2,
-				"y": null,
-				"lb": 3,
-				"rb": null,
-				"lt": 4,
-				"rt": 5,
-				"back": 6,
-				"start": 7,
-				"ls": 8,
-				"rs": 9,
-				"u": 12,
-				"d": 13,
-				"l": 14,
-				"r": 15,
-				"guide": 16,
-				"lsu": "lsu",
-				"lsr": "lsr",
-				"lsd": "lsd",
-				"lsl": "lsl"
-			}
-		}
-		else (/iPhone|iPad/.test(navigator.userAgent) && !window.MSStream) {
+		if (/iPhone|iPad/.test(navigator.userAgent) && !window.MSStream) {
 			this.b = {
 				"a": 0,
 				"b": 1,
@@ -49,6 +24,31 @@ class Gamepad{
 				"l": 14,
 				"r": 15,
 				"guide": null,
+				"lsu": "lsu",
+				"lsr": "lsr",
+				"lsd": "lsd",
+				"lsl": "lsl"
+			}
+		}
+		else {
+			this.b = {
+				"a": 0,
+				"b": 1,
+				"x": 2,
+				"y": null,
+				"lb": 3,
+				"rb": null,
+				"lt": 4,
+				"rt": 5,
+				"back": 6,
+				"start": 7,
+				"ls": 8,
+				"rs": 9,
+				"u": 12,
+				"d": 13,
+				"l": 14,
+				"r": 15,
+				"guide": 16,
 				"lsu": "lsu",
 				"lsr": "lsr",
 				"lsd": "lsd",
