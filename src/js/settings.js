@@ -286,12 +286,12 @@ class SettingsView{
 			"other": ["wildcard"]
 		}, this.keyPressed.bind(this))
 		this.gamepad = new Gamepad({
-			"confirm": ["b", "ls", "rs"],
+			"confirm": ["a", "ls", "rs"],
 			"up": ["u", "lsu"],
 			"right": ["r", "rb", "rt", "lsr"],
 			"down": ["d", "lsd"],
 			"left": ["l", "lb", "lt", "lsl"],
-			"back": ["start", "a"]
+			"back": ["start", "b"]
 		}, this.keyPressed.bind(this))
 		
 		this.viewTitle = this.getElement("view-title")
