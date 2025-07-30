@@ -47,8 +47,8 @@ class GameInput {
       };
     } else if (layout === "d") {
       var gameBtn = {
-        don_l: ["back"],
-        don_r: ["start"],
+        don_l: ["ls"],
+        don_r: ["rs"],
         ka_l: ["lt"],
         ka_r: ["rt"],
       };
@@ -63,15 +63,15 @@ class GameInput {
     this.gamepad = new Gamepad(gameBtn);
     this.gamepadInterval = setInterval(
       this.gamepadKeys.bind(this),
-      1000 / 60 / 4
+      1000 / 240
     );
 
     this.gamepadMenu = new Gamepad({
-      cancel: ["a"],
-      confirm: ["b", "ls", "rs"],
+      cancel: ["b"],
+      confirm: ["a", "ls", "rs"],
       previous: ["u", "l", "lb", "lt", "lsu", "lsl"],
       next: ["d", "r", "rb", "rt", "lsd", "lsr"],
-      pause: ["guide"],
+      pause: ["start", "back"],
     });
 
     if (controller.multiplayer === 1) {
