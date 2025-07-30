@@ -30,7 +30,7 @@ class Gamepad{
 				"lsl": "lsl"
 			}
 		}
-		else (/iPhone|iPad/.test(navigator.userAgent))) {
+		else (/iPhone|iPad/.test(navigator.userAgent) && !window.MSStream) {
 			this.b = {
 				"a": 0,
 				"b": 1,
