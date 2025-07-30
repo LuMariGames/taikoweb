@@ -32,8 +32,8 @@ class Gamepad{
 		}
 		else {
 			this.b = {
-				"a": 0,
-				"b": 1,
+				"a": 1,
+				"b": 0,
 				"x": 2,
 				"y": null,
 				"lb": 3,
