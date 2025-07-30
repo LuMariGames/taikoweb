@@ -7,8 +7,8 @@ class Gamepad{
 		this.callback = !!callback
 		if (/Android|iPhone|iPad/.test(navigator.userAgent)) {
 			this.b = {
-				"a": 1,
-				"b": 0,
+				"a": 0,
+				"b": 1,
 				"x": 2,
 				"y": null,
 				"lb": 3,
