@@ -36,7 +36,7 @@ class GameInput {
         don_l: ["d", "r"],
         don_r: ["b", "y"],
         ka_l: ["u", "l", "lb", "lt"],
-        ka_r: ["x", "y", "rb", "rt"],
+        ka_r: ["x", "a", "rb", "rt"],
       };
     } else if (layout === "c") {
       var gameBtn = {
