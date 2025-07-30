@@ -340,15 +340,15 @@ class SongSelect{
 		this.gamepad = new Gamepad({
 			confirm: ["b", "start", "ls", "rs"],
 			back: ["a"],
-			left: ["lb", "lsl", "lt"],
-			right: ["rb", "lsr", "rt"],
+			left: ["lb", "lsl", "l"],
+			right: ["rb", "lsr", "r"],
 			up: ["u", "lsu"],
 			down: ["d", "lsd"],
 			session: ["back"],
 			ctrlGamepad: ["y"],
 			shift: ["x"],
-			jump_left: ["l"],
-			jump_right: ["r"]
+			jump_left: ["lt"],
+			jump_right: ["rt"]
 		}, this.keyPress.bind(this))
 		
 		if(!assets.customSongs){
