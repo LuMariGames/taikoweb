@@ -148,7 +148,7 @@ class LoadSong{
 		if(this.touchEnabled && !assets.image["touch_drum"]){
 			let img = document.createElement("img")
 			img.crossOrigin = "anonymous"
-			var url = gameConfig.assets_baseurl + "img/touch_drum.png"
+			var url = gameConfig.assets_baseurl + "touch_drum.png"
 			this.addPromise(pageEvents.load(img).then(() => {
 				return this.scaleImg(img, "touch_drum", "")
 			}), url)
@@ -164,7 +164,7 @@ class LoadSong{
 			if(!assets.image[id]){
 				var img = document.createElement("img")
 				img.crossOrigin = "anonymous"
-				var url = gameConfig.assets_baseurl + "img/" + id + ".png"
+				var url = gameConfig.assets_baseurl + id + ".png"
 				this.addPromise(pageEvents.load(img).then(() => {
 					return this.scaleImg(img, id, "")
 				}), url)
@@ -233,7 +233,7 @@ class LoadSong{
 					let img = document.createElement("img")
 					let force = filenameAb.startsWith("bg_song_") && this.touchEnabled
 					img.crossOrigin = "anonymous"
-					var url = gameConfig.assets_baseurl + "img/" + filenameAb + ".png"
+					var url = gameConfig.assets_baseurl + filenameAb + ".png"
 					this.addPromise(pageEvents.load(img).then(() => {
 						return this.scaleImg(img, filenameAb, "", force)
 					}), url)
