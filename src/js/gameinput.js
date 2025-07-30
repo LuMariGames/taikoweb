@@ -49,8 +49,8 @@ class GameInput {
       var gameBtn = {
         don_l: ["back"],
         don_r: ["start"],
-        ka_l: ["lb", "lt"],
-        ka_r: ["rb", "rt"],
+        ka_l: ["lt"],
+        ka_r: ["rt"],
       };
     } else {
       var gameBtn = {
@@ -63,7 +63,7 @@ class GameInput {
     this.gamepad = new Gamepad(gameBtn);
     this.gamepadInterval = setInterval(
       this.gamepadKeys.bind(this),
-      1000 / 60 / 2
+      1000 / 60 / 4
     );
 
     this.gamepadMenu = new Gamepad({
