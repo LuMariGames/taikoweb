@@ -5,7 +5,7 @@ class Gamepad{
 	init(bindings, callback){
 		this.bindings = bindings
 		this.callback = !!callback
-		if (/iPhone|iPad/.test(navigator.userAgent) && !window.MSStream) {
+		if (/iPhone|iPad/.test(navigator.userAgent)) {
 			this.b = {
 				"a": 0,
 				"b": 1,
