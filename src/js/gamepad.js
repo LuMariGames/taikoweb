@@ -5,7 +5,7 @@ class Gamepad{
 	init(bindings, callback){
 		this.bindings = bindings
 		this.callback = !!callback
-		if (/android/i.test(navigator.userAgent)) {
+		if (/android/.test(navigator.userAgent)) {
 			this.b = {
 				"a": 1,
 				"b": 0,
