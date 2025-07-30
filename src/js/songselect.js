@@ -338,8 +338,8 @@ class SongSelect{
 			search: ["f"]
 		}, this.keyPress.bind(this))
 		this.gamepad = new Gamepad({
-			confirm: ["b", "start", "ls", "rs"],
-			back: ["a"],
+			confirm: ["a", "start", "ls", "rs"],
+			back: ["b"],
 			left: ["lt", "lsl", "l"],
 			right: ["rt", "lsr", "r"],
 			up: ["u", "lsu"],
