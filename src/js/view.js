@@ -1693,12 +1693,6 @@
 			}
 		}else if(type === "drumroll" || type === "daiDrumroll"){
 			fill = "#f3b500"
-			if (circle.timesHit) {
-				fill = "#ff0000"
-				setTimeout(() => {
-					fill = "f3b500"
-				}, 1000)
-			}
 			if(type == "drumroll"){
 				size = circleSize
 				faceID = noteFace.small
@@ -1718,34 +1712,6 @@
 			ctx.lineTo(circlePos.x, circlePos.y + size - 1.5)
 			ctx.fill()
 			ctx.stroke()
-			
-			var audioMS = this.getAudioMS()
-			if (circle.timesHit > 0 && audioMS < endTime + 2000) {
-				const remainingHits = circle.timesHit
-				const h = size * 1.8
-
-				const fixedX = this.slotPos.x - 80
-				const fixedY = this.slotPos.y - h / 2 - 180
-
-				ctx.drawImage(
-					assets.image['renda_count'],
-					fixedX - size / 2,
-					fixedY,
-					240,
-					160
-				)
-
-				ctx.font = '50px TnT'
-				ctx.fillStyle = '#000000'
-				ctx.textAlign = 'center'
-				ctx.textBaseline = 'middle'
-
-				const text = remainingHits.toString()
-				const textX = fixedX + 100
-				const textY = fixedY + 75
-
-				ctx.fillText(text, textX, textY)
-			}
 		}
 		if(!fade || fade < 1){
 			// Main circle
