@@ -57,6 +57,8 @@ var assets = {
 		"notes_hit.png",
 		"notes_explosion.png",
 		"balloon.png",
+		"balloon_count.png",
+		"renda_count.png",
 		"taiko.png",
 		"don_anim_normal_a.png",
 		"don_anim_normal_b1.png",
@@ -98,7 +100,6 @@ var assets = {
 	"audioSfx": [
 		"se_pause.ogg",
 		"se_calibration.ogg",
-		
 		"v_results.ogg",
 		"v_sanka.ogg",
 		"v_songsel.ogg",
@@ -112,14 +113,12 @@ var assets = {
 		"se_don.ogg",
 		"se_ka.ogg",
 		"se_jump.ogg",
-		
 		"se_balloon.ogg",
 		"se_gameclear.ogg",
 		"se_gamefail.ogg",
 		"se_gamefullcombo.ogg",
 		"se_results_countup.ogg",
 		"se_results_crown.ogg",
-		
 		"v_fullcombo.ogg",
 		"v_renda.ogg",
 		"v_results_fullcombo.ogg",
