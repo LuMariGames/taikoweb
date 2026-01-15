@@ -4,7 +4,7 @@ class Session{
 	}
 	init(touchEnabled){
 		this.touchEnabled = touchEnabled
-		loader.changePage("session", false)
+		loader.changePage("session", true)
 		this.endButton = this.getElement("view-end-button")
 		if(touchEnabled){
 			this.getElement("view-outer").classList.add("touch-enabled")
