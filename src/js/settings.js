@@ -263,7 +263,7 @@ class SettingsView{
 			pageEvents.add(window, "language-change", event => this.setLang(), this.windowSymbol)
 		}
 		
-		var gamepadEnabled = false
+		var gamepadEnabled = true
 		if("getGamepads" in navigator){
 			var gamepads = navigator.getGamepads()
 			for(var i = 0; i < gamepads.length; i++){
