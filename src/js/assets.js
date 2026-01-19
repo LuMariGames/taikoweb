@@ -107,8 +107,8 @@ var assets = {
 		"v_title.ogg"
 	],
 	"audioSfxLR": [
-		"neiro_1_don.ogg",
-		"neiro_1_ka.ogg",
+		"neiro_1_don.wav",
+		"neiro_1_ka.wav",
 		"se_cancel.ogg",
 		"se_don.ogg",
 		"se_ka.ogg",
