@@ -1533,11 +1533,11 @@
 		
 		for(var i = circles.length; i--;){
 			var circle = circles[i]
-			var speed = circle.speed
+			var speed = Math.abs(circle.speed)
 			
-			var timeForDistance = this.posToMs(distanceForCircle + this.slotPos.size / 2, Math.abs(speed))
+			var timeForDistance = this.posToMs(distanceForCircle + this.slotPos.size / 2, speed)
 			var startingTime = circle.ms - timeForDistance + this.controller.videoLatency
-			var finishTime = circle.endTime + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + this.slotPos.size * 2, Math.abs(speed)) + this.controller.videoLatency
+			var finishTime = circle.endTime + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + this.slotPos.size * 2, speed) + this.controller.videoLatency
 			
 			if(circle.isPlayed <= 0 || circle.score === 0){
 				if((!circle.branch || circle.branch.active) && ms >= startingTime && ms <= finishTime && circle.isPlayed !== -1){
