@@ -1485,7 +1485,7 @@
 		measures.forEach(measure => {
 			var timeForDistance = this.posToMs(distanceForCircle, Math.abs(measure.speed))
 			var startingTime = measure.ms - timeForDistance + this.controller.videoLatency
-			var finishTime = measure.ms + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + 3, Math.abs(measure.speed) + this.controller.videoLatency
+			var finishTime = measure.ms + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + 3, Math.abs(measure.speed)) + this.controller.videoLatency
 			if(measure.visible && (!measure.branch || measure.branch.active) && ms >= startingTime && ms <= finishTime){
 				var measureX = this.slotPos.x + this.msToPos(measure.ms - ms + this.controller.videoLatency, measure.speed)
 				this.ctx.strokeStyle = measure.branchFirst ? "#ff0" : "#bdbdbd"
