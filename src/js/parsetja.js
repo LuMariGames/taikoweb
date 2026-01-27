@@ -398,7 +398,7 @@
 						bpm = parseFloat(value) || bpm
 						break
 					case "scroll":
-						scroll = Math.abs(parseFloat(value)) || scroll
+						scroll = parseFloat(value) || scroll
 						break
 					case "measure":
 						var [numerator, denominator] = value.split("/")
