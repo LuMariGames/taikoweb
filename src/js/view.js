@@ -1483,9 +1483,9 @@
 		var measureH = 130 * mul
 		
 		measures.forEach(measure => {
-			var timeForDistance = this.posToMs(distanceForCircle, measure.speed)
+			var timeForDistance = this.posToMs(distanceForCircle, Math.abs(measure.speed))
 			var startingTime = measure.ms - timeForDistance + this.controller.videoLatency
-			var finishTime = measure.ms + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + 3, measure.speed) + this.controller.videoLatency
+			var finishTime = measure.ms + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + 3, Math.abs(measure.speed) + this.controller.videoLatency
 			if(measure.visible && (!measure.branch || measure.branch.active) && ms >= startingTime && ms <= finishTime){
 				var measureX = this.slotPos.x + this.msToPos(measure.ms - ms + this.controller.videoLatency, measure.speed)
 				this.ctx.strokeStyle = measure.branchFirst ? "#ff0" : "#bdbdbd"
@@ -1535,9 +1535,9 @@
 			var circle = circles[i]
 			var speed = circle.speed
 			
-			var timeForDistance = this.posToMs(distanceForCircle + this.slotPos.size / 2, speed)
+			var timeForDistance = this.posToMs(distanceForCircle + this.slotPos.size / 2, Math.abs(speed))
 			var startingTime = circle.ms - timeForDistance + this.controller.videoLatency
-			var finishTime = circle.endTime + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + this.slotPos.size * 2, speed) + this.controller.videoLatency
+			var finishTime = circle.endTime + this.posToMs(this.slotPos.x - this.slotPos.paddingLeft + this.slotPos.size * 2, Math.abs(speed)) + this.controller.videoLatency
 			
 			if(circle.isPlayed <= 0 || circle.score === 0){
 				if((!circle.branch || circle.branch.active) && ms >= startingTime && ms <= finishTime && circle.isPlayed !== -1){
