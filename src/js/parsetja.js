@@ -31,7 +31,8 @@
 			"8": {name: false, txt: false},
 			"9": {name: "balloon", txt: strings.note.balloon},
 			"A": {name: "daiDon", txt: strings.note.daiDon},
-			"B": {name: "daiKa", txt: strings.note.daiKa}
+			"B": {name: "daiKa", txt: strings.note.daiKa},
+			"D": {name: "balloon", txt: strings.note.balloon},
 		}
 		this.noteTypes_ex = strings.ex_note;
 		this.courseTypes = {
@@ -540,7 +541,7 @@
 							}
 							insertNote(circleObj)
 							break
-						case "5": case "6": case "7": case "9":
+						case "5": case "6": case "7": case "9": case "D":
 							var type = this.noteTypes[symbol]
 							var circleObj = {
 								type: type.name,
@@ -567,7 +568,7 @@
 								}
 								break
 							}
-							if(symbol === "7" || symbol === "9"){
+							if(symbol === "7" || symbol === "9" || symbol === "D"){
 								var hits = balloons[balloonID]
 								if(!hits || hits < 1){
 									hits = 1
