@@ -2062,7 +2062,7 @@
 	}
 	touchNote(note){
 		var keyboard = this.controller.keyboard
-		var ms = 0
+		var ms = this.controller.game.getAccurateTime()
 		this.touch = ms
 		keyboard.setKey(false, note)
 		keyboard.setKey(true, note, ms)
