@@ -152,7 +152,7 @@
       "border": ["#ffa66b", "#b53000"],
       "info_fill": "#961e00",
       "outline": "#941c00",
-      "sort": 7
+      "sort": 8
     },
     "title": "MARIO Original",
     "title_lang": {
@@ -172,7 +172,7 @@
       "border": ["#fa8072", "#cd5c5c"],
       "info_fill": "#fa8072",
       "outline": "#dc143c",
-      "sort": 7
+      "sort": 9
     },
     "title": "limited",
     "title_lang": {
