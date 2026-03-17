@@ -1,5 +1,6 @@
 ﻿class View{
 	constructor(...args){
+		this.ontouch = this.ontouch.bind(this)
 		this.init(...args)
 	}
 	init(controller){
@@ -122,7 +123,7 @@
 				if(this.controller.autoPlayEnabled){
 					this.touchDrumDiv.style.display = "none"
 				}
-				pageEvents.add(this.canvas, "touchstart", this.ontouch.bind(this))
+				pageEvents.add(this.canvas, "touchstart", this.ontouch)
 				
 				this.gameDiv.classList.add("touch-visible")
 				
@@ -2020,11 +2021,12 @@
 		}
 	}
 	ontouch(event){
-		if(!("changedTouches" in event)){
-			event.changedTouches = [event]
-		}
-		for(var i = 0; i < event.changedTouches.length; i++){
-			var touch = event.changedTouches[i]
+		var touches = event.changedTouches || [event];
+		const c = this.touchCircle;
+		const invRx2 = 1 / (c.rx * c.rx);
+		const invRy2 = 1 / (c.ry * c.ry);
+		for(let i = 0; i < touches.length; i++){
+			var touch = touches[i]
 			event.preventDefault()
 			if(this.controller.game.paused){
 				var mouse = this.mouseOffset(touch.pageX, touch.pageY)
@@ -2036,25 +2038,14 @@
 				var pageX = touch.pageX * this.pixelRatio
 				var pageY = touch.pageY * this.pixelRatio
 				
-				var c = this.touchCircle
-				var pi = Math.PI
-				var inPath = () => this.ctx.isPointInPath(pageX, pageY)
+				const dx = pageX - c.x;
+				const dy = pageY - c.y;
+				const isInside = (dx * dx * invRx2) + (dy * dy * invRy2) <= 1;
 				
-				this.ctx.beginPath()
-				this.ctx.ellipse(c.x, c.y, c.rx, c.ry, 0, pi, 0)
-				
-				if(inPath()){
-					if(pageX < this.winW / 2){
-						this.touchNote("don_l")
-					}else{
-						this.touchNote("don_r")
-					}
-				}else{
-					if(pageX < this.winW / 2){
-						this.touchNote("ka_l")
-					}else{
-						this.touchNote("ka_r")
-					}
+				if (isInside) {
+					this.touchNote(px < this.winW / 2 ? "don_l" : "don_r");
+				} else {
+					this.touchNote(px < this.winW / 2 ? "ka_l" : "ka_r");
 				}
 				this.touchEvents++
 			}
