@@ -2022,10 +2022,10 @@
 	}
 	ontouch(event){
 		var touches = event.changedTouches || [event];
-		const c = this.touchCircle;
-		const invRx2 = 1 / (c.rx * c.rx);
-		const invRy2 = 1 / (c.ry * c.ry);
-		for(let i = 0; i < touches.length; i++){
+		var c = this.touchCircle;
+		var invRx2 = 1 / (c.rx * c.rx);
+		var invRy2 = 1 / (c.ry * c.ry);
+		for(var i = 0; i < touches.length; i++){
 			var touch = touches[i]
 			event.preventDefault()
 			if(this.controller.game.paused){
