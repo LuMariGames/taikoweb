@@ -3,13 +3,19 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Mario Taiko</title>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
-    <meta name="viewport" content="width=device-width, user-scalable=yes" />
+    <link rel="shortcut icon" type="image/png" href="icon.png" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <link rel="manifest" href="./manifest.json">
     <meta name="robots" content="noindex" />
     <meta name="robots" content="notranslate" />
     <meta name="robots" content="noimageindex" />
     <meta name="color-scheme" content="only light" />
     <link rel="stylesheet" href="src/css/loader.css" />
+    <script>
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker.register ('./service-worker.js')
+      }
+    </script>
     <script src="./src/js/assets.js"></script>
     <script src="./src/js/strings.js"></script>
     <script src="./src/js/pageevents.js"></script>
