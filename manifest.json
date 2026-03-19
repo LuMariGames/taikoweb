@@ -3,11 +3,11 @@
   "short_name": "MTaiko",
   "background_color": "#000000",
   "icons": [{
-      "src": "/taikoweb/icon.png",
+      "src": "./icon.png",
       "sizes": "128x128",
       "type": "image/png"
     }],
-  "start_url": "/pwa_test/",
-  "scope": "/pwa_test/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone"
 }
