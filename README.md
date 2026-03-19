@@ -1,6 +1,13 @@
 息抜きで作った太鼓ウェブです。
 
 ## アプデ内容一覧
+<details><summary>Mario Taiko(v1.6)</summary>
+ 
+1. 仕様変更
+　- 風船音符の打数が分かる様に仕様変更
+2. 新曲３４曲の追加(全ては載せきれないのでご確認下さい。)
+</details>
+
 <details><summary>Mario Taiko(v1.5)</summary>
 
 1. 機能の追加
