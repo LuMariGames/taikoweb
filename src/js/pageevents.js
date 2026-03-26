@@ -26,7 +26,7 @@ class PageEvents{
 			this.allEvents.set(symbol || target, addedEvent)
 		}
 		addedEvent.set(type, callback)
-		return target.addEventListener(type, callback, { passive: false })
+		return target.addEventListener(type, callback)
 	}
 	remove(target, type, symbol){
 		if(Array.isArray(type)){
