@@ -2021,12 +2021,11 @@
 		}
 	}
 	ontouch(event){
-		const touches = event.changedTouches || [event];
-		const c = this.touchCircle;
-		const invRx2 = 1 / (c.rx * c.rx);
-		const invRy2 = 1 / (c.ry * c.ry);
-		for(let i = 0; i < touches.length; i++){
-			const touch = touches[i]
+		if(!("changedTouches" in event)){
+			event.changedTouches = [event]
+		}
+		for(var i = 0; i < event.changedTouches.length; i++){
+			var touch = event.changedTouches[i]
 			event.preventDefault()
 			if(this.controller.game.paused){
 				var mouse = this.mouseOffset(touch.pageX, touch.pageY)
@@ -2035,17 +2034,28 @@
 					this.pauseConfirm(moveTo)
 				}
 			}else if(!this.controller.autoPlayEnabled){
-				const pageX = touch.pageX * this.pixelRatio
-				const pageY = touch.pageY * this.pixelRatio
+				var pageX = touch.pageX * this.pixelRatio
+				var pageY = touch.pageY * this.pixelRatio
 				
-				const dx = pageX - c.x;
-				const dy = pageY - c.y;
-				const isInside = (dx * dx * invRx2) + (dy * dy * invRy2) <= 1;
+				var c = this.touchCircle
+				var pi = Math.PI
+				var inPath = () => this.ctx.isPointInPath(pageX, pageY)
 				
-				if (isInside) {
-					this.touchNote(pageX < this.winW / 2 ? "don_l" : "don_r");
-				} else {
-					this.touchNote(pageY < this.winW / 2 ? "ka_l" : "ka_r");
+				this.ctx.beginPath()
+				this.ctx.ellipse(c.x, c.y, c.rx, c.ry, 0, pi, 0)
+				
+				if(inPath()){
+					if(pageX < this.winW / 2){
+						this.touchNote("don_l")
+					}else{
+						this.touchNote("don_r")
+					}
+				}else{
+					if(pageX < this.winW / 2){
+						this.touchNote("ka_l")
+					}else{
+						this.touchNote("ka_r")
+					}
 				}
 				this.touchEvents++
 			}
