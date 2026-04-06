@@ -6137,5 +6137,165 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 149,
+    "order": 149,
+    "title": "初音狂奏曲第01番「彗惺」",
+    "subtitle": "よみぃ feat.初音ミク",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 150,
+    "order": 150,
+    "title": "乖離領域のグリヴェール",
+    "subtitle": "Micelle",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 151,
+    "order": 151,
+    "title": "タッチ",
+    "subtitle": "原曲：岩崎良美 / 稲葉浩志 cover",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 8
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 1,
+    "category": "Pop",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 152,
+    "order": 152,
+    "title": "プリキュアオールスターズM",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 10
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
