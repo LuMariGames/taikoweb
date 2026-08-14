@@ -70,7 +70,7 @@
     },
     {
       "hide": true,
-      "start": true,
+      "start": false,
       "url": "../../plugins/accessibility/disable-animations.taikoweb.js"
     },
     {
