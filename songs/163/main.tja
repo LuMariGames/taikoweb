@@ -68,6 +68,7 @@ BALLOON:
 
 #BRANCHSTART p,-1,-1
 #N
+#MEASURE 4/4
 200201
 #LYRIC ‚Ü‚¾ ‚±‚Ì“š‚¦‚Í
 202100,
@@ -370,6 +371,7 @@ BALLOON:
 0,
 
 #E
+#MEASURE 4/4
 200201
 #LYRIC ‚Ü‚¾ ‚±‚Ì“š‚¦‚Í
 202100,
@@ -672,6 +674,7 @@ BALLOON:
 0,
 
 #M
+#MEASURE 4/4
 200201
 #LYRIC ‚Ü‚¾ ‚±‚Ì“š‚¦‚Í
 202100,
