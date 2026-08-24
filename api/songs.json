@@ -6626,5 +6626,87 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 161,
+    "order": 161,
+    "title": "いつかわかる☆きっとあえる",
+    "subtitle": "「名探偵プリキュア！」より",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 7
+      },
+      "ura": {
+        "stars": 8
+      }
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 162,
+    "order": 162,
+    "title": "ハローダーウィン！〜好奇心オンデマンド〜",
+    "subtitle": "「ケロロ軍曹」より",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 8
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 2,
+    "category": "Anime",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
