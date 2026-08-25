@@ -3,7 +3,7 @@ SUBTITLE:--キュアエクレール(CV：長谷川育美)
 BPM:188.00327838750409
 WAVE:ishint.ogg
 OFFSET:-0.422657
-TAIKOWEBSKIN:dir ,name eclair,song static,stage none,don none
+TAIKOWEBSKIN:dir ../assets,name eclair,song static,stage none,don static
 
 COURSE:3
 LEVEL:8
