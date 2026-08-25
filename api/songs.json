@@ -6745,12 +6745,7 @@
     "volume": 1.0,
     "lyrics": false,
     "offset": null,
-    "song_skin": {
-      name: "eclair",
-      song: "static",
-      don: "static",
-      stage: "none"
-    },
+    "song_skin": "eclair",
     "maker": null,
     "hash": null
   }
