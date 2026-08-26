@@ -65,7 +65,6 @@ class LoadSong{
 		song.donBg = this.randInt(1, 6)
 		if(id===163){
 			song.songBg = 163
-			song.songStage = null
 		}
 		
 		if(song.songSkin && song.songSkin.name){
