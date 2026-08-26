@@ -63,8 +63,11 @@ class LoadSong{
 		song.songBg = this.randInt(1, 5)
 		song.songStage = this.randInt(1, 3)
 		song.donBg = this.randInt(1, 6)
+
+		//背景変更が上手くいかないので手動
 		if(id===163){
 			song.songBg = 163
+			song.songStage = 0
 		}
 		
 		if(song.songSkin && song.songSkin.name){
