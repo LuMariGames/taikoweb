@@ -201,7 +201,7 @@ class Loader{
 						song.previewMusic = new RemoteFile(directory + "preview." + gameConfig.preview_type)
 					}
 					if(song.song_skin){
-						song.song_skin.name = song.song_skin
+						song.songSkin.name = song.song_skin
 					}
 				})
 				assets.songsDefault = songs
