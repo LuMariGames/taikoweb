@@ -69,6 +69,10 @@ class LoadSong{
 			song.songBg = 163
 			song.songStage = 0
 		}
+		else if(id===142 || id===143 || id===161){
+			song.songBg = 142
+			song.songStage = 0
+		}
 		
 		if(song.songSkin && song.songSkin.name){
 			var imgLoad = []
