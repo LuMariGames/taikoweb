@@ -63,6 +63,10 @@ class LoadSong{
 		song.songBg = this.randInt(1, 5)
 		song.songStage = this.randInt(1, 3)
 		song.donBg = this.randInt(1, 6)
+		if(id===163){
+			song.songBg = 163
+			song.songStage = null
+		}
 		
 		if(song.songSkin && song.songSkin.name){
 			var imgLoad = []
