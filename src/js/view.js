@@ -832,24 +832,6 @@
 			ctx.globalAlpha = 1
 		}
 		
-		// Go go time background
-		if(this.gogoTime || ms <= this.gogoTimeStarted + 100){
-			var grd = ctx.createLinearGradient(padding, 0, winW, 0)
-			grd.addColorStop(0, "rgba(255, 0, 0, 0.16)")
-			grd.addColorStop(0.45, "rgba(255, 0, 0, 0.28)")
-			grd.addColorStop(0.77, "rgba(255, 83, 157, 0.4)")
-			grd.addColorStop(1, "rgba(255, 83, 157, 0)")
-			ctx.fillStyle = grd
-			if(!this.touchEnabled){
-				var alpha = Math.min(100, ms - this.gogoTimeStarted) / 100
-				if(!this.gogoTime){
-					alpha = 1 - alpha
-				}
-				ctx.globalAlpha = alpha
-			}
-			ctx.fillRect(padding, barY, winW - padding, barH)
-		}
-		
 		// Bar pressed keys
 		if(keyTime[sound] > ms - 130){
 			var gradients = {
