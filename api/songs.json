@@ -6748,5 +6748,172 @@
     "song_skin": null,
     "maker": null,
     "hash": null
+  },
+  {
+    "id": 164,
+    "order": 164,
+    "title": "可哀想はカワイイ",
+    "subtitle": "みつあくま feat.初音ミク",
+    "courses": {
+      "easy": {
+        "stars": 3
+      },
+      "normal": {
+        "stars": 5
+      },
+      "hard": {
+        "stars": 7
+      },
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 165,
+    "order": 165,
+    "title": "和拍を刻む",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 8,
+    "category": "Mario Originals",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 166,
+    "order": 166,
+    "title": "dear...",
+    "subtitle": "馬場このみ (CV: 髙橋ミナミ)",
+    "courses": {
+      "easy": null,
+      "hard": null,
+      "normal": null,
+      "oni": {
+        "stars": 8,
+        "branch": false
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 6,
+    "category": "Video Game Series",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
+  },
+  {
+    "id": 167,
+    "order": 167,
+    "title": "MICKEY MOUSE MARCH",
+    "subtitle": "",
+    "courses": {
+      "easy": null,
+      "normal": null,
+      "hard": null,
+      "oni": {
+        "stars": 9
+      },
+      "ura": null
+    },
+    "preview": 0,
+    "category_id": 4,
+    "category": "Variety",
+    "title_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "subtitle_lang": {
+      "ja": null,
+      "en": null,
+      "cn": null,
+      "tw": null,
+      "ko": null
+    },
+    "type": "tja",
+    "music_type": "ogg",
+    "volume": 1.0,
+    "lyrics": false,
+    "offset": null,
+    "song_skin": null,
+    "maker": null,
+    "hash": null
   }
 ]
