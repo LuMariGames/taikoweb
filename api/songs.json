@@ -6879,20 +6879,20 @@
   {
     "id": 167,
     "order": 167,
-    "title": "MICKEY MOUSE MARCH",
-    "subtitle": "",
+    "title": "可不ちゃんのカレーうどん狂騒曲",
+    "subtitle": "南ノ南 feat.可不&ずんだもん",
     "courses": {
       "easy": null,
       "normal": null,
       "hard": null,
       "oni": {
-        "stars": 9
+        "stars": 10
       },
       "ura": null
     },
     "preview": 0,
-    "category_id": 4,
-    "category": "Variety",
+    "category_id": 3,
+    "category": "VOCALOID™ Music",
     "title_lang": {
       "ja": null,
       "en": null,
